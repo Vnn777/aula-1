@@ -1,0 +1,50 @@
+        body{
+            background-image: url(Louis_Vuitton-Logo.wine.svg);
+        }
+        h3 {
+            color: rgb(220, 220, 131);
+            background-image: url(Louis_Vuitton-Logo.wine.svg);
+            font-size: 200px;
+        }
+
+        #HT {
+            color: rgb(15, 15, 91);
+        }
+
+        #CSS {
+            color: brown;
+        }
+
+        #PS {
+            color: yellow;
+        }
+
+        #Dev {
+            color: violet;
+        }
+
+        p {
+            color: blueviolet;
+        }
+
+        div{
+            background-color: azure;
+            width: 100px;
+            border: 3px solid  red;
+            border-radius: 20px;
+
+        }
+
+        li:first-child {
+            color: chocolate;
+        }
+
+    li:hover {
+        color:blue;
+        transition: 0.6s;
+    }
+
+    li:hover {
+        color: bisque;
+        transition: 0.6s;
+    }
